@@ -23,7 +23,8 @@ public void empdesig(String empdesig){
 	 System.out.println("Employee Name is:" +name);
 	 System.out.println("Employee age is:" +age);
 	 System.out.println("Employee Designation is:" +Designation);
-	 System.out.println("Employee Name is:" +Salary);
+	 System.out.println("Employee Salary is:" +Salary);
+	 System.out.println("Employee Name is: Khan and he is not a terrorist");
 	 
  }
 }
